@@ -25,5 +25,5 @@
 每次收藏都会生成一张属于今天的 JPG 小卡，扫码或点上面的链接都可以玩，不用微信也没关系
 
 <p align="center">
-  <sub>联络开发者 · x：<a href="https://x.com/hann7712">@hann7712</a>　·　wechat:Canaan-77</sub>
+  <sub>联系开发者 · x：@hann7712　·　wechat:Canaan-77</sub>
 </p>

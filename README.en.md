@@ -25,5 +25,5 @@ Press, drag, stretch with two fingers, or double tap to discover little surprise
 Every check-in creates a small JPG keepsake for the day. Scan the code or open the link above — no WeChat required
 
 <p align="center">
-  <sub>Contact the developer · x: <a href="https://x.com/hann7712">@hann7712</a>　·　wechat: Canaan-77</sub>
+  <sub>Contact the developer · x: @hann7712　·　wechat: Canaan-77</sub>
 </p>
